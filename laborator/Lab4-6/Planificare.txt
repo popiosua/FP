@@ -1,0 +1,48 @@
+# P5. Administrator de bloc
+# Creați o aplicație pentru gestiunea cheltuielilor lunare de la apartamentele unui bloc de locuințe. 
+# Aplicația stochează cheltuielile pentru fiecare apartament: suma și tipul cheltuielii 
+# (tip poate fi una dintre: apa, canal, încălzire, gaz, altele).
+
+
+cheltuiala ( apartament, suma, tip)
+tip = {apa, canal, încălzire, gaz, altele}
+
+Functionalitati
+
+ADAUGARE
+1 adaugare cheltuiala
+2 modificare cheltuiala
+
+STERGERE
+3 stergere toate cheltuielile unui apartament
+4 stergere cheltuieli de la apartamente consecutive (ex 1->5)
+5 stergere cheltuieli de un anume tip de la toate apartamentele
+
+CAUTARE
+6 tiparire apartamente cu cheltuieli mai mare decat o suma
+7 tiparire cheltuieli de un anumit tip de la toate apartamentele
+8 tiparire cheltuieli de pe o zi mai mare de o anumita suma (ex: suma, zi)
+
+Rapoarte
+9 suma totala pentru un anumit tip de cheltuiala
+10 toate apartamentele sortate dupa un anumit tip de cheltuiala
+11 total cheltuieli pentru un apartament
+
+Filtru
+12 elimina toate cheltuielile de un anumit tip
+13 elimina toate cheltuielile mai mici decat o suma data
+
+Undo
+14 refacere ultima operatie
+
+
+Iteratii:
+
+I1
+1,2,3,4,5,6,7,8
+
+I2
+9,10,11,12,13
+
+I3
+14
