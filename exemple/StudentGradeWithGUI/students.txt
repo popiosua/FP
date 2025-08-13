@@ -1,0 +1,10 @@
+2;ASA;sadasd;2;Cluj
+1234;Popescu;hhh;4;Cluj
+44;saasdsa;asd;;
+12;awawaw;sdfdsf;;
+32232222;32232222;32232222;32232222;32232222
+3;Ionescu;Kogalniceanu;12;Cluj
+77;OOOOO;Cj;Cj;Cj
+1;Ion;asda;asdas;dsa
+66666;werwerwerwe;werwer;werewr;wewrw
+12341234;Ion;wqeqwe;we;wqee

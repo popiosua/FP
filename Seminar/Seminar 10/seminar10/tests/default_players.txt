@@ -1,0 +1,10 @@
+Rafael Nadal,Spain,1285,1120,12400
+Roger Federer,Switzerland,1526,1350,11275
+Carlos Alcaraz,Spain,172,150,8945
+Daniil Medvedev,Russia,725,650,7280
+Jannik Sinner,Italy,280,240,4900
+Andrey Rublev,Russia,440,380,4745
+Stefanos Tsitsipas,Greece,500,420,4630
+Alexander Zverev,Germany,620,510,4465
+Casper Ruud,Norway,360,310,4360
+Taylor Fritz,USA,315,260,3960
